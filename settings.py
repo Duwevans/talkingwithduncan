@@ -25,7 +25,7 @@ SECRET_KEY = '1p=panct-tir$$qruj3yzy0hg9n4=ko9(r%fpc9fmecms1&f2b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.talkingwithduncan.com', '23.92.22.186', '127.0.0.1']
+ALLOWED_HOSTS = ['www.portfolio.com', '23.92.22.186', '127.0.0.1']
 
 
 # Application definition
@@ -135,5 +135,5 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'talkingwithduncan@gmail.com'
+EMAIL_HOST_USER = 'portfolio@gmail.com'
 EMAIL_HOST_PASSWORD = 'kmP#2OK7#L8m'
