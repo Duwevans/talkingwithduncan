@@ -1,1 +1,1 @@
-web: gunicorn talkingwithduncan.wsgi
+web:gunicorn blog.wsgi
